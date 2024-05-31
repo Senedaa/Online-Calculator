@@ -10,7 +10,7 @@ This is a simple web-based calculator project that performs basic arithmetic ope
 
 2. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/calculator-project.git
+    git clone https://github.com/Senedaa/Online-Calculator.git
     cd calculator-project
     ```
 
