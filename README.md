@@ -39,7 +39,7 @@ The calculator is designed using HTML for the structure, CSS for styling, and Ja
 - **CSS:** Adds styling to the calculator, such as borders, spacing, and layout.
 - **JavaScript:** Implements the functionality, including handling button clicks and performing calculations using the `eval` function.
 
-![Calculator Design](https://raw.githubusercontent.com/Senedaa/Online-Calculator/main/design.png)
+![Calculator Design](https://raw.githubusercontent.com/Senedaa/Online-Calculator/main/images/design.png)
 
 
 
@@ -85,8 +85,9 @@ To set up VSCode:
 
 ## Screenshot of Execution Results
 
-![Calculator Screenshot](image1_result.png)
-![Calculator Screenshot](image2_result.png)
+![Calculator Screenshot 1](https://raw.githubusercontent.com/Senedaa/Online-Calculator/main/images/image1_result.png)
+
+![Calculator Screenshot 2](https://raw.githubusercontent.com/Senedaa/Online-Calculator/main/images/image2_result.png)
 
 ## Note on the eval Function
 
