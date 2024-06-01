@@ -93,6 +93,8 @@ To set up VSCode:
 
 The calculator uses the `eval` function in JavaScript to evaluate the arithmetic expressions entered by the user. While `eval` is a powerful function, it should be used with caution as it can execute arbitrary code and pose security risks if not handled properly. In this project, it is used in a controlled manner to safely evaluate mathematical expressions.
 
-## Appendix
-![Google Slide link](https://docs.google.com/presentation/d/1ddfIE06-Y-LXmXZYmOgk03-rNoV5lk22/edit?usp=sharing&ouid=106027577716860473439&rtpof=true&sd=true)
+## Google Slide and Presentation
+https://docs.google.com/presentation/d/14v2J5Z3lGQqlzoHgohjx4x6OBIPmwvtYvCn5CtYi55g/edit#slide=id.g2e1e3a21e18_6_160
+
+##Appendix
 
